@@ -1,0 +1,12 @@
+.SearchBar {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+    flex-wrap: wrap;
+    row-gap: 10px;
+    &__reset {
+        padding: 5px 20px;
+        cursor: pointer;
+    }
+}
